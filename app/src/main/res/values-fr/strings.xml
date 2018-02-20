@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon App</string>
+    <string name="second_page">Deuxieme Page</string>
+    <string name="default_name">Andreas Slovacek</string>
+</resources>
